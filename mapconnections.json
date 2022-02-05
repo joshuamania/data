@@ -1,0 +1,34 @@
+[
+  {
+    "citiesData": [
+        {
+            "name": "Berlin",
+            "lat": 52.5069312,
+            "long": 13.1445508
+        },
+        {
+            "name": "Köln",
+            "lat": 50.9578353,
+            "long": 6.8272389
+        }
+    ]
+  }, 
+  {
+    "flatData": [
+        {
+            "points": [52.5069312, 13.1445508, 50.9578353, 6.8272389],
+            "number": 5,
+            "short": "From BER to CGN"
+        }
+    ]
+  },
+  {  
+    "connectorData": [
+        {
+            "points": [50.9578353, 6.8272389, 52.5069312, 13.1445508],
+            "number": 2,
+            "short": "From CGN to BER"
+        }
+    ]
+  }
+]
